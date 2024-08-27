@@ -1,0 +1,7 @@
+{
+    "workbench.settings.editor": "ui",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    }
+}

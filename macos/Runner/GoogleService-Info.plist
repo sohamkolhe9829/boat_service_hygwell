@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCe0gmmuQEHq1zFWzHUHioETS2YK3wdW-A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>296230532879</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.boatServiceHygwell</string>
+	<key>PROJECT_ID</key>
+	<string>boat-service-hygwell</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boat-service-hygwell.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:296230532879:ios:9738d674b7f7782ac4f07a</string>
+</dict>
+</plist>
