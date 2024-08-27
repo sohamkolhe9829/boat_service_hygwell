@@ -4,13 +4,13 @@
 
 <h2>Project Screenshots:</h2>
 <h3>Client Side App Screenshots:</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/boat-service-hygwell.appspot.com/o/project%2FScreenshot_1724800557.png?alt=media&amp;token=6c9dac1d-1623-4197-a9d0-29992ff042f6" alt="project-screenshot" width="300" height="400/">
+<img src="https://firebasestorage.googleapis.com/v0/b/boat-service-hygwell.appspot.com/o/project%2FScreenshot_1724800557.png?alt=media&amp;token=6c9dac1d-1623-4197-a9d0-29992ff042f6" alt="project-screenshot" width="200" height="400/">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/boat-service-hygwell.appspot.com/o/project%2FScreenshot_1724800562.png?alt=media&amp;token=4294d446-9c2c-4df3-a72e-c47bf2c42548" alt="project-screenshot" width="300" height="400/">
+<img src="https://firebasestorage.googleapis.com/v0/b/boat-service-hygwell.appspot.com/o/project%2FScreenshot_1724800562.png?alt=media&amp;token=4294d446-9c2c-4df3-a72e-c47bf2c42548" alt="project-screenshot" width="200" height="400/">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/boat-service-hygwell.appspot.com/o/project%2FScreenshot_1724800569.png?alt=media&amp;token=67a772a9-d07a-4ceb-a39a-f6393840af10" alt="project-screenshot" width="300" height="400/">
+<img src="https://firebasestorage.googleapis.com/v0/b/boat-service-hygwell.appspot.com/o/project%2FScreenshot_1724800569.png?alt=media&amp;token=67a772a9-d07a-4ceb-a39a-f6393840af10" alt="project-screenshot" width="200" height="400/">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/boat-service-hygwell.appspot.com/o/project%2FScreenshot_1724800651.png?alt=media&amp;token=750389c5-27b3-4119-a044-d304cdbba27d" alt="project-screenshot" width="300" height="400/">
+<img src="https://firebasestorage.googleapis.com/v0/b/boat-service-hygwell.appspot.com/o/project%2FScreenshot_1724800651.png?alt=media&amp;token=750389c5-27b3-4119-a044-d304cdbba27d" alt="project-screenshot" width="200" height="400/">
 <br/>
 <br/>
 <h3>Admin Panel Screenshots:</h3>
