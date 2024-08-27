@@ -8,7 +8,6 @@ class InfoBulletWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print(content);
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
