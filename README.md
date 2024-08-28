@@ -28,7 +28,7 @@ Our admin panel is currently deployed at:
 
 The client application is available for download from GitHub Actions:
 
-[Download Client App]([https://github.com/username/repository/actions/workflows/build.yml](https://github.com/sohamkolhe9829/boat_service_hygwell/releases/))
+[Download Client App](https://github.com/sohamkolhe9829/boat_service_hygwell/releases/)
 
 <p></p>
   
